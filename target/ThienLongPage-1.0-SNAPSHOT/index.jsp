@@ -39,7 +39,7 @@
                 }
             }
             #main-home{
-                background: #fff url("images/skin-tet-2018.jpg") no-repeat scroll center 0;
+                background: #fff url("images/bg-2015-08.jpg") no-repeat scroll center 0;
             }
         </style>
         <script>(function () {
