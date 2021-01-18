@@ -202,7 +202,7 @@
                     </div>
                     <div class="module-center-control">
                         <div class="control-abilities"> <div class="control-abilities">
-                                <a id="flashDownload" href="${pageContext.request.contextPath}/download.jsp" target="_blank" class="btn-download TaiGame DownloadVDownload" title="Cài đặt ngay">Cài đặt ngay</a>
+                                <a id="flashDownload" href="http://66.42.57.162/TLBB-2Game.zip" target="_blank" class="btn-download TaiGame DownloadVDownload" title="Cài đặt ngay">Cài đặt ngay</a>
                                 <a href="${pageContext.request.contextPath}/reg.jsp" class="btn-regis QuickRegister " title="Đăng Ký Nhanh">Đăng Ký Nhanh</a>
                                 <a href="${pageContext.request.contextPath}/napthe.jsp" target="_blank" class="btn-payment NapThe" title="Nạp thẻ" rel="nofollow">Nạp thẻ</a>
                             </div>
